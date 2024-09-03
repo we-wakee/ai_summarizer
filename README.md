@@ -1,8 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The "ai_summarizer" app includes API integration for content summarization, enabling users to condense large texts into concise summaries. This feature likely involves connecting to a language model or a summarization API to process input text and return a shortened version that retains the key points. The app could be used for summarizing articles, reports, or any lengthy documents, making it a handy tool for quickly digesting large amounts of information.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Screenshot 2024-09-03 123914](https://github.com/user-attachments/assets/49927a03-34ce-48d2-b2a8-87e4e710e888)
+![Uploading Screenshot 2024-09-03 123946.png…]()

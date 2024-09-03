@@ -20,13 +20,13 @@ export const Demo =()=> {
   const [copied,setCopied]= useState("") 
   const [getSummary,{error,isFetching}]= useLazyGetSummaryQuery();
 
-  useEffect(()=>{
-    const articlesFromLocalStorage= JSON.parse(localStorage.getItem('articles'))
+  // useEffect(()=>{
+  //   const articlesFromLocalStorage= JSON.parse(localStorage.getItem('articles'))
 
-    if(articlesFromLocalStorage){
-      setAllArticles(articlesFromLocalStorage)
-    }
-  },[]);
+  //   if(articlesFromLocalStorage){
+  //     setAllArticles(articlesFromLocalStorage)
+  //   }
+  // },[]);
 
   
   const handleSubmit = async(e)=>{
@@ -43,7 +43,7 @@ export const Demo =()=> {
         setArticle(newArticle)
         setAllArticles(updatedAllArticles);
 
-        localStorage.setItem('articles',JSON.stringify(updatedAllArticles))
+        // localStorage.setItem('articles',JSON.stringify(updatedAllArticles))
     }
   }
 

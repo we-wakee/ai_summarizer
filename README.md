@@ -16,3 +16,5 @@
 
 🔗 **Live Site:** [AI Summarizer](https://ai-summarizer-dusky.vercel.app/) 🚀  
 
+![Screenshot from 2025-03-29 19-59-08](https://github.com/user-attachments/assets/9a2c0174-2ca9-49a3-94ab-1be6f7ce8dba)
+![Screenshot from 2025-03-29 20-01-33](https://github.com/user-attachments/assets/daf914a5-2694-486a-acc6-92e41bd6e534)
